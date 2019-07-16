@@ -11,10 +11,10 @@ CC:Tweaked 1.83.1 ( https://github.com/SquidDev-CC/CC-Tweaked )
 
 ### Installing
 
-Pastebin
+Pastebin : https://pastebin.com/2SPDSxPt
 
 ```
-Give the example
+pastebin get 2SPDSxPt build.lua
 ```
 
 ## Design
