@@ -27,7 +27,7 @@ Based on a 3x3 tower for passive farming. When cactus grow up items will pop and
 
 ![Screen](https://raw.githubusercontent.com/absolument/CC-CactusFarmBuilder/master/2019-07-16_15.28.30.png)
 
-Place your turtle on the floor (Full of fuel as far as possible), facing then center of cactus tower farm, at 3 blocks of distance.
+Place your turtle on the floor (Full of fuel as far as possible), facing the center of cactus tower farm, at 3 blocks of distance.
 Build the first stage of the cactus farm tower.
 Then run the program, provide any materials.
 
