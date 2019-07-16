@@ -1,6 +1,10 @@
 # CC-CactusFarmBuilder
 Computercraft, turtle building a cactus farm
 
+  - Vertical passive cactus farm 3x3
+  - Turtle gradually builds the farm stage by stage, as and when it is provided with the necessary resources.
+  - When sky limit is reached, program files is renamed as TooHig_filename.lua to prevent unnecessary maneuvers.
+
 ### Prerequisites
 
 CC:Tweaked 1.83.1 ( https://github.com/SquidDev-CC/CC-Tweaked )
