@@ -27,7 +27,13 @@ Based on a 3x3 tower for passive farming. When cactus grow up items will pop and
 
 Place your turtle on the floor (Full of fuel as far as possible), facing then center of cactus tower farm, at 3 blocks of distance.
 Build the first stage of the cactus farm tower.
-Then run the program, provide any materials. For one stage, at least : 4 cactus, 4 sand, 4 cobblestone, 2 fences, 1 torch
+Then run the program, provide any materials. For one stage, at least :
+  - 4 cactus,
+  - 4 sand,
+  - 4 cobblestone
+  - 2 fences
+  - 1 torch
+
 On inventory events, the number of stages the turtle can build is updated.
 Presse Enter to start building. Then turtle will walk to the center and go up to the next stage to build and start to work. When job is done, the turtle will return to start position.
 
