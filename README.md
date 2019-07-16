@@ -20,7 +20,8 @@ pastebin get 2SPDSxPt build.lua
 ## Design
 
 Based on a 3x3 tower for passive farming. When cactus grow up items will pop and fall on the floor. Build a pool below with water streams to harvest products.
-![alt text](https://raw.githubusercontent.com/absolument/CC-CactusFarmBuilder/master/2019-07-16_13.54.35.png)
+![Cactus farm stages](https://raw.githubusercontent.com/absolument/CC-CactusFarmBuilder/master/2019-07-16_13.54.35.png)
+![Cactus farm base](https://raw.githubusercontent.com/absolument/CC-CactusFarmBuilder/master/2019-07-16_15.24.26.png)
 
 ## Usage
 
