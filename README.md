@@ -1,10 +1,6 @@
 # CC-CactusFarmBuilder
 Computercraft, turtle building a cactus farm
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
 CC:Tweaked 1.83.1 ( https://github.com/SquidDev-CC/CC-Tweaked )
