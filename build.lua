@@ -1,3 +1,14 @@
+-- Builing cactus farm
+-- by absolument
+--
+-- Vertical passive cactus farm 3x3
+-- Turtle gradually builds the farm stage by stage,
+-- as and when it is provided with the necessary resources.
+--
+-- When sky limit is reached, program files is renamed
+-- as TooHig_filename.lua
+-- to prevent unnecessary maneuvers.
+--
 
 --Blocks chart
 local id = {}
@@ -288,20 +299,27 @@ repeat
 	sleep(2)
 until false
 
---  GGGGG
--- G     G
--- G cFc G
--- G t   G
--- G cFc G
--- G     G
---  GGGGG 
+-- Farm design
+-- Chart :
+-- c = cactus
+-- F = fence
+-- S = sand
+-- C = cobblestone
+--
+-- Top view
+--     __ 
+-- cFc
+--   
+-- cFc __
+--
+-- Side view
 --         __ 
--- G  F  G    
--- G c C G    
--- G StS G    
--- G C C G __ 
--- G  F  G
--- G c C G
--- G StS G
--- G C C G __
+--   F      
+--  c c     
+--  StS     
+--  C C  __ 
+--   F  
+--  c c 
+--  StS 
+--  C C  __
 --
